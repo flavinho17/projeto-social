@@ -29,21 +29,21 @@ main {
 }
 
 section#telefone {
-    position: absolute;
-    top: 50%;
+    position: fixed;
+    top: 57%;
     left: 50%;
     transform: translate(-50%,-50%);
     height: 627px;
     width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone-270.png') no-repeat;
 }
 
 iframe#tela {
     position: relative;
-    left: 22px;
-    top: 80px;
-    width: 263.4px;
-    height: 467px;
+    left: 20px;
+    top: 70px;
+    width: 227.4px;
+    height: 403.7px;
 }
 
 section#redes-sociais {
